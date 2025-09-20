@@ -1,0 +1,6 @@
+[
+    { "username": "user" , "password": "user" , "role": "user" },
+    { "username": "admin", "password": "!qaz" , "role": "admin" },
+    { "username": "guest", "password": "guest" , "role": "guest" },
+    { "username": "superuser", "password": "superuser" , "role": "superuser" }
+]
